@@ -2,7 +2,7 @@
 
 I'm Saba Samuel Fitwi 🤣
 
-- 🔭 I’m currently working on my portofilio project.
+- 🔭 I’m currently working on my portofilio projects.
 - 🌱 I’m currently learning front-end development at noroff.
 
 
