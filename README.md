@@ -7,7 +7,7 @@ I'm Saba Samuel Fitwi 🤣
 
 
 - 💬 Ask me about HTML, CSS,  Bootstrap, Tailwind ,React, Javascript
-- 📫 How to reach me: linkedin, saba.fitwi@gmail.com
+- 📫 How to reach me: fitwisaba@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: design and decor
 
