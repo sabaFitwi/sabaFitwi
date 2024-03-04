@@ -11,12 +11,8 @@ I'm Saba Samuel Fitwi 🤣
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: design and decor
 
-  
 
-
-## Programming languages and frameworks:
-
-## 👉 Programming languages
+## 👉 Programming languages and frameworks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
