@@ -2,14 +2,14 @@
 
 I'm Saba Samuel Fitwi 🤣
 
-- 🔭 I’m currently working on my portofilio projects.
-- 🌱 I’m currently learning front-end development at noroff.
+- 🔭 I have finished my study in front-end development at noroff
+- 🛠️ I enjoy building things, breaking down challenges and working through them.
 
 
-- 💬 Ask me about HTML, CSS,  Bootstrap, Tailwind ,React, Javascript
+- 💬 Ask me about HTML, CSS,  Bootstrap, Tailwind, React, Javascript, Nextjs, Typescript
 - 📫 How to reach me: fitwisaba@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: design and decor
+- ⚡ Fun fact: design and Event planner
 
 
 ## 👉 Programming languages and frameworks:
@@ -22,6 +22,8 @@ I'm Saba Samuel Fitwi 🤣
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 ## 👉 Software & Tools
