@@ -34,6 +34,8 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![HotJar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 ![Post Man](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange)
+
 
 ### Design & Collaboration Tools
 ![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white)
