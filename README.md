@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I'm Saba Samuel Fitwi 🤣
+I'm Saba Samuel Fitwi 🤩
+A passionate Frontend Developer and Designer with a knack for crafting beautiful, user-friendly web applications. I love building things, breaking down challenges, and solving them creatively.
 
-- 🔭 I have finished my study in front-end development at noroff
-- 🛠️ I enjoy building things, breaking down challenges and working through them.
-
-
-- 💬 Ask me about HTML, CSS,  Bootstrap, Tailwind, React, Javascript, Nextjs, Typescript
-- 📫 How to reach me: fitwisaba@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: design and Event planner
+🔭 Education: Graduated in Frontend Development from Noroff.
+🛠️ Interests: Building dynamic web experiences, designing intuitive user interfaces, and learning new technologies.
+💬 Ask me about: HTML, CSS, Bootstrap, Tailwind, React, JavaScript, Next.js, TypeScript.
+📫 Contact me: fitwisaba@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I'm also an event planner and love designing memorable experiences.
 
 
 ## 👉 Programming languages and frameworks:
@@ -34,14 +33,20 @@ I'm Saba Samuel Fitwi 🤣
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![HotJar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
+![Post Man](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white)
+
+## Design & Collaboration Tools
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Post Man](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 👉 Deployment Tool
+![Vercel](https://img.shields.io/badge/Vercel-red?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 👉 IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
