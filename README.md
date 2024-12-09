@@ -41,6 +41,8 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+
 
 
 ## 👉 Deployment Tool
@@ -50,5 +52,13 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 
 ## 👉 IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Technologies Added from My Recent Project:
+- Sanity CMS: A powerful headless CMS for managing content.
+- Stripe Payments: Integrated payment processing for secure checkout flows.
+- Framer Motion: For stunning animations and transitions.
+- Clerk Authentication: Simplified user authentication with Passkeys.
+- Zustand: Lightweight state management.
+
 
 
