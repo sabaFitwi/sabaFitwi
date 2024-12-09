@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Saba Samuel Fitwi 🤩
 A passionate Frontend Developer and Designer with a knack for crafting beautiful, user-friendly web applications. I love building things, breaking down challenges, and solving them creatively.
@@ -11,7 +11,7 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 - ⚡ Fun fact: I'm also an event planner and love designing memorable experiences.
 
 ---
-## 👉 Programming languages and frameworks:
+### 👉 Programming languages and frameworks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 
 
 
-## 👉 Software & Tools
+### 👉 Software & Tools
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
@@ -35,7 +35,7 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 ![HotJar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 ![Post Man](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## Design & Collaboration Tools
+### Design & Collaboration Tools
 ![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -45,15 +45,19 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 
 
 
-## 👉 Deployment Tool
+#### 👉 Deployment Tool
 ![Vercel](https://img.shields.io/badge/Vercel-red?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
 
-## 👉 IDEs
+
+
+### 👉 IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Technologies Added from My Recent Project:
+---
+
+### Technologies Added from My Recent Project:
 - Sanity CMS: A powerful headless CMS for managing content.
 - Stripe Payments: Integrated payment processing for secure checkout flows.
 - Framer Motion: For stunning animations and transitions.
