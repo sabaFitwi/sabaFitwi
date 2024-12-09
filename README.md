@@ -3,14 +3,14 @@
 I'm Saba Samuel Fitwi 🤩
 A passionate Frontend Developer and Designer with a knack for crafting beautiful, user-friendly web applications. I love building things, breaking down challenges, and solving them creatively.
 
-🔭 Education: Graduated in Frontend Development from Noroff.
-🛠️ Interests: Building dynamic web experiences, designing intuitive user interfaces, and learning new technologies.
-💬 Ask me about: HTML, CSS, Bootstrap, Tailwind, React, JavaScript, Next.js, TypeScript.
-📫 Contact me: fitwisaba@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I'm also an event planner and love designing memorable experiences.
+- 🔭 Education: Graduated in Frontend Development from Noroff.
+- 🛠️ Interests: Building dynamic web experiences, designing intuitive user interfaces, and learning new technologies.
+- 💬 Ask me about: HTML, CSS, Bootstrap, Tailwind, React, JavaScript, Next.js, TypeScript.
+- 📫 Contact me: fitwisaba@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm also an event planner and love designing memorable experiences.
 
-
+---
 ## 👉 Programming languages and frameworks:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
