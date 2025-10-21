@@ -58,9 +58,8 @@ A passionate Frontend Developer and Designer with a knack for crafting beautiful
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-FF6F00?style=for-the-badge&logo=cursor&logoColor=white)
 ![Trea](https://img.shields.io/badge/Trea-00C853?style=for-the-badge&logo=trae&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-FF6F00?style=flat&logo=cursor&logoColor=white)
-![Trea](https://img.shields.io/badge/Trea-00C853?style=flat&logo=trae&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 
 
